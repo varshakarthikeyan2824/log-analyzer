@@ -1,0 +1,23 @@
+{
+  "counts_by_level": {
+    "INFO": 4,
+    "WARNING": 4,
+    "ERROR": 6,
+    "DEBUG": 2
+  },
+  "top_errors": [
+    {
+      "message": "Database connection failed",
+      "count": 4
+    },
+    {
+      "message": "Authentication failed",
+      "count": 2
+    }
+  ],
+  "time_range": {
+    "start": "2026-10-28T10:45:54",
+    "end": "2026-10-28T15:38:13"
+  },
+  "bad_lines": 4
+}

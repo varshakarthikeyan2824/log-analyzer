@@ -1,0 +1,20 @@
+2026-10-28 10:45:54 INFO Application started
+2026-10-28 10:45:54 WARNING High memory usage
+2026-10-28 10:45:54 ERROR Database connection failed
+2026-10-28 10:45:54 ERROR Database connection failed
+2026-10-28 10:45:54 INFO User login successful
+2026-10-28 10:45:54 ERROR Authentication failed
+2026-10-28 10:45:54 DEBUG Processing request
+2026-10-28 10:45:54 WARNING Disk space running low
+INVALID LOG ENTRY
+Something went wrong
+2026-10-28 15:38:13 INFO Application started
+2026-10-28 15:38:13 WARNING High memory usage
+2026-10-28 15:38:13 ERROR Database connection failed
+2026-10-28 15:38:13 ERROR Database connection failed
+2026-10-28 15:38:13 INFO User login successful
+2026-10-28 15:38:13 ERROR Authentication failed
+2026-10-28 15:38:13 DEBUG Processing request
+2026-10-28 15:38:13 WARNING Disk space running low
+INVALID LOG ENTRY
+Something went wrong

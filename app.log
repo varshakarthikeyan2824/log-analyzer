@@ -1,0 +1,10 @@
+2026-10-28 09:46:43,001 - INFO - Log analyser application started
+2026-10-28 09:46:43,001 - DEBUG - Loading application configuration
+2026-10-28 09:46:43,001 - WARNING - This is a sample warning
+2026-10-28 09:46:43,001 - ERROR - This is a sample error
+2026-10-28 09:46:43,001 - INFO - Log analyser application finished
+2026-10-28 09:55:12,502 - INFO - Log analyser application started
+2026-10-28 09:55:12,502 - DEBUG - Loading application configuration
+2026-10-28 09:55:12,502 - WARNING - This is a sample warning
+2026-10-28 09:55:12,503 - ERROR - This is a sample error
+2026-10-28 09:55:12,503 - INFO - Log analyser application finished
